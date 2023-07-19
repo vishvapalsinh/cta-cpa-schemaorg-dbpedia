@@ -13,7 +13,7 @@ The paper presents DREIFLUSS, a novel method for improving the performance of ta
 - **CPA**: Links for download       
     - CPA tables [ref](https://data.dws.informatik.uni-mannheim.de/structureddata/sotab/Round2-SOTAB-CPA-Tables.zip)
         - Train Validate and Test files [ref](https://data.dws.informatik.uni-mannheim.de/structureddata/sotab/Round2-SOTAB-CPA-SCH-Datasets.zip)
-**`Notebooks/`**: Containing all the required jupyter notebooks.         
+- **`Notebooks/`**: Containing all the required jupyter notebooks.         
 - **`README.md`**: This file provides an overview of the repository and instructions for running the code.
 
 ## **Dependencies**
