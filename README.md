@@ -1,8 +1,8 @@
-# DREIFLUSS - Table Matching via Schema.org and DBpedia Labels
+# DREIFLUSS - Table Annotation via Schema.org and DBpedia Labels
 
-This repository contains the Jupyter notebook and code associated with our paper, "DREIFLUSS: A Minimalist Approach to Table Matching with Schema.org and DBpedia Labels."
+This repository contains the Jupyter notebook and code associated with our paper, "DREIFLUSS: A Minimalist Approach to Table Annotation with Schema.org and DBpedia Labels."
 
-The paper presents DREIFLUSS, a novel method for improving the performance of table matching tasks in the SemTab challenge using labels from Schema.org and DBpedia. We specifically focus on the Column Type Annotation (CTA) and Column Property Annotation (CPA) tasks.
+The paper presents DREIFLUSS, a novel method for improving the performance of table Annotation tasks in the SemTab challenge using labels from Schema.org and DBpedia. We specifically focus on the Column Type Annotation (CTA) and Column Property Annotation (CPA) tasks.
 
 ## **Dataset**
 
